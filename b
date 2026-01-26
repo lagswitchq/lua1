@@ -201,16 +201,16 @@ local Library do
 
     local Themes = {
         ["Default"] = {
-            ["Window Background"] = FromRGB(43, 43, 43),
-            ["Inline"] = FromRGB(12, 12, 12),
-            ["Text"] = FromRGB(180, 180, 180),
-            ["Section Background"] = FromRGB(19, 19, 19),
-            ["Element"] = FromRGB(63, 63, 63),
-            ["Border"] = FromRGB(68, 68, 68),
-            ["Outline"] = FromRGB(10, 20, 40),
-            ["Dark Liner"] = FromRGB(56, 56, 56),
-            ["Risky"] = FromRGB(255, 50, 50),
-            ["Accent"] = FromRGB(31, 226, 130)
+            ["Window Background"] = FromRGB(0, 0, 0),
+            ["Inline"] = FromRGB(0, 0, 0),
+            ["Text"] = FromRGB(142, 211, 255),
+            ["Section Background"] = FromRGB(0, 0, 0),
+            ["Element"] = FromRGB(0, 0, 0),
+            ["Border"] = FromRGB(66, 66, 66),
+            ["Outline"] = FromRGB(0, 0, 255),
+            ["Dark Liner"] = FromRGB(255, 255, 255),
+            ["Risky"] = FromRGB(255, 0, 0),
+            ["Accent"] = FromRGB(0, 146, 255)
         },
 
         ["Bitchbot"] = {
