@@ -207,7 +207,7 @@ local Library do
             ["Section Background"] = FromRGB(19, 19, 19),
             ["Element"] = FromRGB(63, 63, 63),
             ["Border"] = FromRGB(68, 68, 68),
-            ["Outline"] = FromRGB(0, 0, 0),
+            ["Outline"] = FromRGB(10, 20, 40),
             ["Dark Liner"] = FromRGB(56, 56, 56),
             ["Risky"] = FromRGB(255, 50, 50),
             ["Accent"] = FromRGB(31, 226, 130)
@@ -220,7 +220,7 @@ local Library do
             ["Section Background"] = FromRGB(18, 18, 18),
             ["Element"] = FromRGB(14, 14, 14),
             ["Border"] = FromRGB(0, 0, 0),
-            ["Outline"] = FromRGB(19, 19, 19),
+            ["Outline"] = FromRGB(10, 20, 40),
             ["Dark Liner"] = FromRGB(21, 21, 21),
             ["Risky"] = FromRGB(255, 50, 50),
             ["Accent"] = FromRGB(158, 79, 249)
@@ -233,7 +233,7 @@ local Library do
             ["Section Background"] = FromRGB(20, 20, 20),
             ["Element"] = FromRGB(33, 33, 33),
             ["Border"] = FromRGB(0, 0, 0),
-            ["Outline"] = FromRGB(51, 51, 51),
+            ["Outline"] = FromRGB(10, 20, 40),
             ["Dark Liner"] = FromRGB(22, 22, 20),
             ["Risky"] = FromRGB(255, 50, 50),
             ["Accent"] = FromRGB(237, 170, 0)
@@ -246,7 +246,7 @@ local Library do
             ["Section Background"] = FromRGB(22, 25, 28),
             ["Element"] = FromRGB(58, 66, 77),
             ["Border"] = FromRGB(48, 56, 63),
-            ["Outline"] = FromRGB(20, 25, 30),
+            ["Outline"] = FromRGB(10, 20, 40),
             ["Dark Liner"] = FromRGB(38, 45, 53),
             ["Risky"] = FromRGB(255, 50, 50),
             ["Accent"] = FromRGB(104, 214, 255)
